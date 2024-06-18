@@ -2,8 +2,8 @@
 
 Gehaald door: 
 Brief aan de mentor
-
-
+<br>
+<br>
 
 --Doel: Je kunt je persoonlijke kwaliteiten benoemen en uitleggen
 
@@ -19,23 +19,23 @@ Disc test
 Gehaald door:
 Week en dagplanner
 Doelen SMART formuleren
-.
-.
+
+
 
 --Doel: Je kunt reflecteren volgens verschillende manieren en deze inzetten
 
 Gehaald door:
 Reflecteren STARR model
 Reflecteren hand model
-.
-.
+
+
 
 --Doel: Je krijgt meer inzicht in jouw motieven om in de ICT te werken
 
 Gehaald door:
 Disc test
-.
-.
+
+
 
 --Doel:Je ontwikkelt je persoonlijk maar ook beroepsmatig
 
